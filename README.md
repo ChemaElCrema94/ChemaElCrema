@@ -1,7 +1,5 @@
 # 👋 Soy ChemaElCrema94 👋
 
-
-
 ## Sobre mí
 
 ¡Hola! Soy un entusiasta del desarrollo de aplicaciones, siempre con ganas de aprender y mejorar mis habilidades.
