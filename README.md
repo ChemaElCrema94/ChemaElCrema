@@ -1,19 +1,19 @@
-# 👋 ¡Hola! Soy ChemaElCrema94. Apasionado de la tecnología y el desarrollo de software.
+# 👋 ¡Hola! Soy ChemaElCrema94. Apasionado de la tecnología y el desarrollo de software. 👋
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 ¡Hola! Soy un entusiasta del desarrollo de aplicaciones, siempre con ganas de aprender y mejorar mis habilidades en el mundo tech.
 
-- 🧠 **Actualmente aprendiendo**: Python, Git, HTML, CSS y JavaScript.
-- 🎯 **Objetivo**: Convertirme en un desarrollador versátil y competente.
-- 🤝 **Interesado en colaborar con**: Personas que compartan la pasión por crear, enseñar y mejorar.
-- 📍 **Ubicación**: [Tu ciudad o país], 🌍
+-  **Actualmente aprendiendo**: Python, Git, HTML, CSS y JavaScript.
+-  **Objetivo**: Convertirme en un desarrollador versátil y competente.
+-  **Interesado en colaborar con**: Personas que compartan la pasión por crear, enseñar y mejorar.
+-  **Ubicación**: España,
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas 🛠️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,13 +23,13 @@
 
 ---
 
-## 📫 Cómo contactarme
+## 💌 Cómo contactarme 💌
 
 - GitHub: [@ChemaElCrema94](https://github.com/ChemaElCrema94)
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub 📊
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ChemaElCrema94&show_icons=true&theme=tokyonight)
 
@@ -39,8 +39,15 @@
 
 ---
 
-## ⚡ Datos curiosos
+## 🎮 Conocimientos alternativos 🎮
 
-- 🎮 Fanático de los videojuegos retro y actuales.
-- 📷 Me gusta la fotografía y la edición digital.
-- 🌱 Siempre estoy explorando nuevas tecnologías y herramientas para crecer como profesional.
+-  Experto en Dark Souls.
+-  Experto en JoJo´s Bizarre Adventure.
+
+  ⠀⠀ ⠀⠀    ⢀⣼⡿⣫⣾⠆⠀⠀ ⠀⠀⢀⣼⡿⣫⣾⠆
+⠀⠀⠀ ⠀⠀⣠⣎⣠⣴⣶⠎⠛⠁⠀⠀⣠⣎⣠⣴⣶⠎⠛⠁⠀
+⠀⠀⠀⢀⣼⣿⠿⠛⣿⡟⠀⠀⠀⢀⣼⣿⠿⠛⣿⡟⠀⠀⠀⠀
+⠀⠀⠀⠘⠉⠀ ⠀⢸⣿⡇⠀⠀⠀⠘⠉⠀  ⢸⣿⡇⠀⠀⠀⠀
+⠀⠀⠀⣼⣿⣿⣿⡿⠿⠃⠀⠀⠀⣼⣿⣿⣿⡿⠿⠃⠀⠀⠀⠀
+⠀⠀ ⠋⠉⠀⠀⠀  ⠀⠀⠀⠀⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
