@@ -1,6 +1,6 @@
 # 👋 Soy ChemaElCrema94 👋
 
----
+---------------------------------------------------------------------------------------------------------------------------------
 
 ## Sobre mí
 
@@ -10,9 +10,9 @@
 -  **Objetivo**: Convertirme en un desarrollador.
 -  **Interesado en colaborar con**: Personas que compartan la pasión por crear y mejorar.
 -  **Ubicación**: España.
--  - GitHub: [@ChemaElCrema94](https://github.com/ChemaElCrema94)
+-  **GitHub**: [@ChemaElCrema94](https://github.com/ChemaElCrema94)
 
----
+---------------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Tecnologías y herramientas 🛠️
 
@@ -22,7 +22,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+---------------------------------------------------------------------------------------------------------------------------------
+## 🎮 Conocimientos alternativos 🎮
+
+-  Experto en Dark Souls.
+-  Experto en JoJo´s Bizarre Adventure.
+
+---------------------------------------------------------------------------------------------------------------------------------
 
 ## 📊 Estadísticas de GitHub 📊
 
@@ -31,12 +37,3 @@
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ChemaElCrema94&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChemaElCrema94&theme=tokyonight)
-
----
-
-## 🎮 Conocimientos alternativos 🎮
-
--  Experto en Dark Souls.
--  Experto en JoJo´s Bizarre Adventure.
-
-
