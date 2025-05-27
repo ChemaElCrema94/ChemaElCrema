@@ -1,15 +1,16 @@
-# 👋 ¡Hola! Soy ChemaElCrema94. Apasionado de la tecnología y el desarrollo de software. 👋
+# 👋 Soy ChemaElCrema94 👋
 
 ---
 
 ## Sobre mí
 
-¡Hola! Soy un entusiasta del desarrollo de aplicaciones, siempre con ganas de aprender y mejorar mis habilidades en el mundo tech.
+¡Hola! Soy un entusiasta del desarrollo de aplicaciones, siempre con ganas de aprender y mejorar mis habilidades.
 
--  **Actualmente aprendiendo**: Python, Git, HTML, CSS y JavaScript.
--  **Objetivo**: Convertirme en un desarrollador versátil y competente.
--  **Interesado en colaborar con**: Personas que compartan la pasión por crear, enseñar y mejorar.
--  **Ubicación**: España,
+-  **Actualmente aprendiendo**: Java, Git, XML, HTML, CSS y JavaScript.
+-  **Objetivo**: Convertirme en un desarrollador.
+-  **Interesado en colaborar con**: Personas que compartan la pasión por crear y mejorar.
+-  **Ubicación**: España.
+-  - GitHub: [@ChemaElCrema94](https://github.com/ChemaElCrema94)
 
 ---
 
@@ -20,12 +21,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 💌 Cómo contactarme 💌
-
-- GitHub: [@ChemaElCrema94](https://github.com/ChemaElCrema94)
 
 ---
 
